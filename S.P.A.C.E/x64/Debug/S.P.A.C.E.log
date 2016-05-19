@@ -1,0 +1,49 @@
+﻿  texture.cpp
+  text2D.cpp
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\text2d.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\text2d.cpp(108): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  objectBounds.cpp
+  main.cpp
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\skybox.h(11): warning C4114: same type qualifier used more than once
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\room.h(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\room.h(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\roomdetails.h(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\console_object.h(62): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(547): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(548): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(549): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(550): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(553): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(554): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(555): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(556): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(690): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(691): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(692): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(693): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(696): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(697): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(698): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(699): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(1219): warning C4005: 'WIDTH': macro redefinition
+  c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(34): note: see previous definition of 'WIDTH'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(1220): warning C4005: 'HEIGHT': macro redefinition
+  c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(35): note: see previous definition of 'HEIGHT'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(1279): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(1294): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\main.cpp(143): warning C4101: 'doorBound': unreferenced local variable
+  display.cpp
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\display.cpp(393): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\display.cpp(394): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\display.cpp(400): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\display.cpp(405): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\display.cpp(410): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\display.cpp(415): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  shader.cpp
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\shader.cpp(88): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Generating Code...
+  S.P.A.C.E.vcxproj -> C:\Users\sande\Documents\Visual Studio 2015\Projects\S.P.A.C.E\x64\Debug\S.P.A.C.E.exe

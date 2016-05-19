@@ -1,0 +1,100 @@
+﻿  display.cpp
+display.cpp(421): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+display.cpp(422): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+display.cpp(426): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+display.cpp(431): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+display.cpp(436): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+display.cpp(441): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\skybox.h(11): warning C4114: same type qualifier used more than once
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\room.h(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\room.h(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\roomdetails.h(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sande\documents\visual studio 2015\projects\s.p.a.c.e\s.p.a.c.e\console_object.h(68): warning C4305: '-=': truncation from 'double' to 'float'
+main.cpp(332): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(663): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(664): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(665): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(666): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(669): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(670): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(671): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(672): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(816): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(817): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(818): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(819): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(822): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(823): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(824): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(825): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1303): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1304): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1305): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(1313): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1314): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1315): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1474): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1475): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1476): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1507): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+main.cpp(1509): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+main.cpp(1736): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(1780): warning C4005: 'WIDTH': macro redefinition
+  main.cpp(36): note: see previous definition of 'WIDTH'
+main.cpp(1781): warning C4005: 'HEIGHT': macro redefinition
+  main.cpp(37): note: see previous definition of 'HEIGHT'
+main.cpp(1850): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(1865): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  mesh.cpp
+mesh.cpp(55): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  obj_loader.cpp
+obj_loader.cpp(29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(123): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(138): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(166): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(264): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(298): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(331): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+obj_loader.cpp(380): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+obj_loader.cpp(388): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  objectBounds.cpp
+  particle.cpp
+particle.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(79): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(80): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(84): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(89): warning C4305: '-=': truncation from 'double' to 'float'
+particle.cpp(90): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(94): warning C4305: '-=': truncation from 'double' to 'float'
+particle.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+particle.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  particlesystem.cpp
+  shader.cpp
+shader.cpp(92): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  text2D.cpp
+text2D.cpp(54): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+text2D.cpp(119): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+text2D.cpp(130): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+text2D.cpp(193): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  texture.cpp
+  Generating code
+  53 of 1955 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  S.P.A.C.E.vcxproj -> C:\Users\sande\Documents\Visual Studio 2015\Projects\S.P.A.C.E\x64\Release\S.P.A.C.E.exe
